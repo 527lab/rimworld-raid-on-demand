@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ROD_Title>召喚襲擊</ROD_Title>
+  <ROD_NoMap>請先進入地圖。</ROD_NoMap>
+  <ROD_Type>類型</ROD_Type>
+  <ROD_Type_Raid>敵方襲擊</ROD_Type_Raid>
+  <ROD_Type_MechCluster>機械叢集</ROD_Type_MechCluster>
+  <ROD_Type_Infestation>蟲巢</ROD_Type_Infestation>
+  <ROD_Type_Manhunter>獵殺人類的動物</ROD_Type_Manhunter>
+  <ROD_Faction>派系</ROD_Faction>
+  <ROD_Strategy>戰術</ROD_Strategy>
+  <ROD_Arrival>抵達方式</ROD_Arrival>
+  <ROD_Random>隨機</ROD_Random>
+  <ROD_Auto>自動</ROD_Auto>
+  <ROD_PickFactionFirst>自動（先選派系才能指定）</ROD_PickFactionFirst>
+  <ROD_Strength>強度：{0} 倍 ＝ {1} 點（目前威脅點數 {2}）</ROD_Strength>
+  <ROD_Waves>波數：{0}</ROD_Waves>
+  <ROD_Call>召喚！</ROD_Call>
+  <ROD_Done>已召喚 {0}／{1} 波。</ROD_Done>
+  <ROD_Failed>召喚失敗：目前條件不符（例如蟲巢需要山地屋頂）。</ROD_Failed>
+  <ROD_Strat_ImmediateAttack>立即進攻</ROD_Strat_ImmediateAttack>
+  <ROD_Strat_ImmediateAttackSmart>立即進攻（聰明避險）</ROD_Strat_ImmediateAttackSmart>
+  <ROD_Strat_StageThenAttack>集結後進攻</ROD_Strat_StageThenAttack>
+  <ROD_Strat_ImmediateAttackBreaching>破牆進攻</ROD_Strat_ImmediateAttackBreaching>
+  <ROD_Strat_ImmediateAttackBreachingSmart>破牆進攻（聰明）</ROD_Strat_ImmediateAttackBreachingSmart>
+  <ROD_Strat_ImmediateAttackSappers>挖地道進攻</ROD_Strat_ImmediateAttackSappers>
+  <ROD_Strat_Siege>圍城</ROD_Strat_Siege>
+  <ROD_Strat_EmergeFromWater>從水中出現</ROD_Strat_EmergeFromWater>
+  <ROD_Strat_PsychicRitualSiege>靈能儀式圍攻</ROD_Strat_PsychicRitualSiege>
+  <ROD_Strat_ShamblerAssault>屍行者突襲</ROD_Strat_ShamblerAssault>
+  <ROD_Arr_EdgeWalkIn>從地圖邊緣走入</ROD_Arr_EdgeWalkIn>
+  <ROD_Arr_EdgeWalkInGroups>分組從邊緣走入</ROD_Arr_EdgeWalkInGroups>
+  <ROD_Arr_EdgeWalkInDistributed>分散從邊緣走入</ROD_Arr_EdgeWalkInDistributed>
+  <ROD_Arr_EdgeWalkInDistributedGroups>分散分組走入</ROD_Arr_EdgeWalkInDistributedGroups>
+  <ROD_Arr_EdgeWalkInHateChanters>仇恨吟唱者走入</ROD_Arr_EdgeWalkInHateChanters>
+  <ROD_Arr_EdgeWalkInDarkness>於黑暗中走入</ROD_Arr_EdgeWalkInDarkness>
+  <ROD_Arr_EdgeDrop>空投至地圖邊緣</ROD_Arr_EdgeDrop>
+  <ROD_Arr_EdgeDropGroups>分組空投至邊緣</ROD_Arr_EdgeDropGroups>
+  <ROD_Arr_CenterDrop>空投至基地中央</ROD_Arr_CenterDrop>
+  <ROD_Arr_RandomDrop>隨機位置空投</ROD_Arr_RandomDrop>
+  <ROD_Arr_EmergeFromWater>從水中出現</ROD_Arr_EmergeFromWater>
+</LanguageData>

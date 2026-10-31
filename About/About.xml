@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Raid On Demand 隨心襲擊</name>
+  <author>David</author>
+  <packageId>david.raidondemand</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>Call raids, mech clusters, infestations and manhunter packs from one simple tab. 用一個面板召喚襲擊、機械叢集、蟲巢與獵殺人類的動物。</description>
+  <loadAfter>
+    <li>ludeon.rimworld</li>
+  </loadAfter>
+</ModMetaData>

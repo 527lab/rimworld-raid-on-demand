@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MainButtonDef>
+    <defName>ROD_RaidOnDemand</defName>
+    <label>call raid</label>
+    <description>Call raids and other threats on demand.</description>
+    <tabWindowClass>RaidOnDemand.MainTabWindow_RaidOnDemand</tabWindowClass>
+    <order>95</order>
+  </MainButtonDef>
+</Defs>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ROD_Title>Call raid</ROD_Title>
+  <ROD_NoMap>Enter a map first.</ROD_NoMap>
+  <ROD_Type>Type</ROD_Type>
+  <ROD_Type_Raid>Enemy raid</ROD_Type_Raid>
+  <ROD_Type_MechCluster>Mech cluster</ROD_Type_MechCluster>
+  <ROD_Type_Infestation>Infestation</ROD_Type_Infestation>
+  <ROD_Type_Manhunter>Manhunter pack</ROD_Type_Manhunter>
+  <ROD_Faction>Faction</ROD_Faction>
+  <ROD_Strategy>Strategy</ROD_Strategy>
+  <ROD_Arrival>Arrival</ROD_Arrival>
+  <ROD_Random>Random</ROD_Random>
+  <ROD_Auto>Auto</ROD_Auto>
+  <ROD_PickFactionFirst>Auto (pick a faction first)</ROD_PickFactionFirst>
+  <ROD_Strength>Strength: {0}x = {1} points (current threat {2})</ROD_Strength>
+  <ROD_Waves>Waves: {0}</ROD_Waves>
+  <ROD_Call>Call!</ROD_Call>
+  <ROD_Done>Called {0}/{1} waves.</ROD_Done>
+  <ROD_Failed>Call failed: conditions not met (infestations need overhead mountain).</ROD_Failed>
+  <ROD_Strat_ImmediateAttack>Immediate attack</ROD_Strat_ImmediateAttack>
+  <ROD_Strat_ImmediateAttackSmart>Immediate attack (smart)</ROD_Strat_ImmediateAttackSmart>
+  <ROD_Strat_StageThenAttack>Stage then attack</ROD_Strat_StageThenAttack>
+  <ROD_Strat_ImmediateAttackBreaching>Breach attack</ROD_Strat_ImmediateAttackBreaching>
+  <ROD_Strat_ImmediateAttackBreachingSmart>Breach attack (smart)</ROD_Strat_ImmediateAttackBreachingSmart>
+  <ROD_Strat_ImmediateAttackSappers>Sappers</ROD_Strat_ImmediateAttackSappers>
+  <ROD_Strat_Siege>Siege</ROD_Strat_Siege>
+  <ROD_Strat_EmergeFromWater>Emerge from water</ROD_Strat_EmergeFromWater>
+  <ROD_Strat_PsychicRitualSiege>Psychic ritual siege</ROD_Strat_PsychicRitualSiege>
+  <ROD_Strat_ShamblerAssault>Shambler assault</ROD_Strat_ShamblerAssault>
+  <ROD_Arr_EdgeWalkIn>Walk in from edge</ROD_Arr_EdgeWalkIn>
+  <ROD_Arr_EdgeWalkInGroups>Walk in, groups</ROD_Arr_EdgeWalkInGroups>
+  <ROD_Arr_EdgeWalkInDistributed>Walk in, distributed</ROD_Arr_EdgeWalkInDistributed>
+  <ROD_Arr_EdgeWalkInDistributedGroups>Walk in, distributed groups</ROD_Arr_EdgeWalkInDistributedGroups>
+  <ROD_Arr_EdgeWalkInHateChanters>Hate chanters walk in</ROD_Arr_EdgeWalkInHateChanters>
+  <ROD_Arr_EdgeWalkInDarkness>Walk in in darkness</ROD_Arr_EdgeWalkInDarkness>
+  <ROD_Arr_EdgeDrop>Drop pods at edge</ROD_Arr_EdgeDrop>
+  <ROD_Arr_EdgeDropGroups>Drop pods at edge, groups</ROD_Arr_EdgeDropGroups>
+  <ROD_Arr_CenterDrop>Drop pods at center</ROD_Arr_CenterDrop>
+  <ROD_Arr_RandomDrop>Drop pods at random</ROD_Arr_RandomDrop>
+  <ROD_Arr_EmergeFromWater>Emerge from water</ROD_Arr_EmergeFromWater>
+</LanguageData>
